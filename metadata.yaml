@@ -1,0 +1,28 @@
+_repo: Letters-of-a-Traveller--13-Or-Notes-of-Things-Seen-in-Europe-and-America_11013
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bryant, William Cullen
+    alias: Bryant, W. C. (William Cullen)
+    birthdate: 1794
+    deathdate: 1878
+    gutenberg_agent_id: '3328'
+    url: http://www.gutenberg.org/2009/agents/3328
+    wikipedia: http://en.wikipedia.org/wiki/William_Cullen_Bryant
+description: Cover -- Contents.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cuba -- Description and travel'
+- !lcsh 'Europe -- Description and travel'
+- !lcsh 'United States -- Description and travel'
+- !lcc 'G'
+- GITenberg
+title: "Letters of a Traveller\r\nOr, Notes of Things Seen in Europe and America"
+url: http://www.gutenberg.org/ebooks/11013
